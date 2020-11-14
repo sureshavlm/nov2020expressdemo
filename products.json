@@ -1,0 +1,17 @@
+[
+    {
+        "name": "iPhone",
+        "price": 70000,
+        "category": "Mobile"
+    },
+    {
+        "name": "iPad",
+        "price": 60000,
+        "category": "Mobile"
+    },
+    {
+        "name": "iMac",
+        "price": 125000,
+        "category": "Laptop"
+    }
+]
